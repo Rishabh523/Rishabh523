@@ -1,6 +1,6 @@
 ### Hi there I'm Rishabh Pratap Singh👋
 
-** I'm a Developer/Coder.
+**I'm a Developer/Coder.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
